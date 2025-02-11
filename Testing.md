@@ -50,4 +50,9 @@ I made this text ~~strikedthrough~~
 ```diff
 - this will be red
 + this will be green
-```
+``` 
+<img div align="right" src="pink-motivational-mug.jpg" alt="Pink Motivational Mug" style="width:320px;height:480px;">  
+<p> now I can start typing like normal again! I need to still figure out how to make a sub solder with the image :/</p> 
+<span style="color:pink">trying pink text again</span> 
+MathJ
+$\color{pink}{\text{trying to type in pink like this}}$ 
