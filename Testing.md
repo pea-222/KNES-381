@@ -61,3 +61,4 @@ $\color{pink}{\text{trying to type in pink like this}}$
 
 $${\color{red}this \space should \space be \space red}$$  
 
+[trying a hyperlink again] (/images/
