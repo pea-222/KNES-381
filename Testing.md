@@ -61,4 +61,6 @@ $\color{pink}{\text{trying to type in pink like this}}$
 
 $${\color{red}this \space should \space be \space red}$$  
 
-[trying a hyperlink again] (/images/
+[trying a hyperlink again] (/images/congrats-you-made-it.jpg/)  
+
+<a href="/images/congrats-you-made-it.jpg">trying image hyperlink in html</a>
