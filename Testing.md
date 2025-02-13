@@ -47,12 +47,17 @@ I made this text ~~strikedthrough~~
 <p>The best way to do this is to write the letter and the combining dot above seperately. So that would be your letter and your &#775; and you can use that with any letter. For example: F&#775; c&#775; r&#775;.</p>  
 <p>This means I can write V&#775;O<sub>2</sub> </p>  
 <p> one way to write colour text is trough a differencial code</p>
+
 ```diff
 - this will be red
 + this will be green
-``` 
-<img div align="right" src="/Images/pink-motivational-mug.jpg" alt="Pink Motivational Mug" style="width:320px;height:480px;">  
+```
+
+<img div align="right" src="/images/pink-motivational-mug.jpg" alt="Pink Motivational Mug" style="width:320px;height:480px;">  
 <p> now I can start typing like normal again! I need to still figure out how to make a sub solder with the image :/</p> 
 <span style="color:pink">trying pink text again</span> 
-MathJ
-$\color{pink}{\text{trying to type in pink like this}}$ 
+
+$\color{pink}{\text{trying to type in pink like this}}$  
+
+$${\color{red}this \space should \space be \space red}$$  
+
