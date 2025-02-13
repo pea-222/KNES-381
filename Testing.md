@@ -1,5 +1,5 @@
-# Center Title #  
-<h2 div align="center">Heading</h2>
+## Heading ## 
+<h1 div align="center">Centre Title</h1>
 <h1>This is a list</h1>
 <ol>
   <li> item1</li>
@@ -14,8 +14,9 @@
 </ul>
 <h3>More Lists</h3>
 <dl>
-  <dt>An Item</dt>
+  <dt>An Item</dt> 
   <dd>sub-item</dd>
+  
   <dt>Another Item</dt>
   <dd>sub-item1</dd>
   <dd>sub-item2</dd>
@@ -37,16 +38,16 @@ I made this text ~~strikedthrough~~
 ---
 <hr/> 
 
-[example link] (http://d2l.ucalgary.ca/)    
+[example link to d2l](http://d2l.ucalgary.ca/)    
 
-<a href="http://d2l.ucalgary.ca/">example link</a>
-<p style="colour:pink;">This text should be pink!</p>
+<a href="http://d2l.ucalgary.ca/">example link to d2l in html</a>
+<p style="colour:pink;">This text should be pink,but it's not :(</p>
 <p style="font-family:courier;">I'm testing fonts</p>
 <p>I'm trying out <sub>subscript</sub>text</p>
 <p>I'm trying to write V as &#10834 or &#x2a52 or V&#775;</p>  
 <p>The best way to do this is to write the letter and the combining dot above seperately. So that would be your letter and your &#775; and you can use that with any letter. For example: F&#775; c&#775; r&#775;.</p>  
 <p>This means I can write V&#775;O<sub>2</sub> </p>  
-<p> one way to write colour text is trough a differencial code</p>
+<p> one way to write colour text is through a differencial code</p>
 
 ```diff
 - this will be red
@@ -54,13 +55,14 @@ I made this text ~~strikedthrough~~
 ```
 
 <img div align="right" src="/images/pink-motivational-mug.jpg" alt="Pink Motivational Mug" style="width:320px;height:480px;">  
-<p> now I can start typing like normal again! I need to still figure out how to make a sub solder with the image :/</p> 
+<p> now I can start typing like normal again! I need to still figure out how to make a sub folder with the image :/ (ps. I figured it out!)</p> 
 <span style="color:pink">trying pink text again</span> 
 
 $\color{pink}{\text{trying to type in pink like this}}$  
 
 $${\color{red}this \space should \space be \space red}$$  
 
-[trying a hyperlink again] (/images/congrats-you-made-it.jpg/)  
+[trying a hyperlink again](/images/congrats-you-made-it.jpg)  
 
 <a href="/images/congrats-you-made-it.jpg">trying image hyperlink in html</a>
+
